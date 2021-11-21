@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      CodeDeploy demo updated
+      Github Actions demo updated
     </div>
   );
 }
